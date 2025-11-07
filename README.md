@@ -47,12 +47,6 @@ Estas son las tecnologías y herramientas que uso en mi día a día:
 
 Aquí es donde GitHub hace magia y muestra mi actividad.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=[capzinho1]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[capzinho1]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados">
-  
-</div>
+
 
 ---
