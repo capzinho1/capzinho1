@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Nicol%C3%A1s++;%F0%9F%92%A1+Transformando+ideas+en+c%C3%B3digo++;%F0%9F%A7%A0+Mezclando+IA+con+desarrollo+web++;%F0%9F%9A%80+Construyendo+el+futuro%2C+una+app+a+la+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=480&lines=%F0%9F%91%8B+Hola%2C+soy+Nicol%C3%A1s++;%F0%9F%92%A1+Transformando+ideas+en+c%C3%B3digo++;%F0%9F%A7%A0+Mezclando+IA+con+desarrollo+web++;%F0%9F%9A%80+Construyendo+el+futuro%2C+una+app+a+la+vez++;%F0%9F%94%A8+AutoTubeAI+%7C+TransporteRural+%7C+AdministradorDeCitasMedicas)](https://git.io/typing-svg)
 
 
 ---
@@ -58,13 +58,6 @@ Actualmente estoy enfocado en:
 
 ---
 
-#### 🏪 [Tiendas](#)
-> Sistema de gestión de inventario y ventas con interfaz gráfica.  
-> 💼 Incluye control de usuarios, stock, clientes y reportes.  
-> 🧱 *Stack:* Python · SQL Server · Integration Services (SSIS)
-
----
-
 #### 🚍 [TransporteRural](#)
 > Proyecto de innovación social enfocado en optimizar el transporte rural.  
 > 🌍 Busca mejorar la conectividad y accesibilidad de comunidades aisladas.  
@@ -72,6 +65,12 @@ Actualmente estoy enfocado en:
 
 ---
 
+#### 🏥 [AdministradorDeCitasMedicas](#)
+> Sistema web para agendar, gestionar y administrar citas médicas de forma digital.  
+> 💼 Facilita la coordinación entre pacientes, médicos y centros de salud.  
+> 🧱 *Stack:* Next.js · Supabase · Tailwind CSS · OpenAI API
+
+---
 
 <div align="center">
 
