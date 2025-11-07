@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=👋+Hola%2C+soy+Nicol%C3%A1s;💻+Desarrollador+en+formaci%C3%B3n;🤖+Creando+AutoTubeAI%2C+Tiendas+y+TransporteRural;🚀+Apasionado+por+la+IA+y+el+Desarrollo+Web;☕+El+c%C3%B3digo+es+mi+lenguaje+favorito!" alt="Typing SVG" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Nicol%C3%A1s++;%F0%9F%92%A1+Transformando+ideas+en+c%C3%B3digo++;%F0%9F%A7%A0+Mezclando+IA+con+desarrollo+web++;%F0%9F%9A%80+Construyendo+el+futuro%2C+una+app+a+la+vez)](https://git.io/typing-svg)
 
 
 ---
