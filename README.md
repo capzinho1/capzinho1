@@ -48,42 +48,29 @@ Actualmente estoy enfocado en:
 
 ---
 
-### 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasmp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmp&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150"/>
-</p>
-
----
-
 ### ⚡ Proyectos Destacados
 
-🚧 **[CuidApp – Asistencia Integral para Adultos Mayores](#)**  
-> App diseñada para brindar apoyo a adultos mayores y sus familias, con recordatorios, contactos de emergencia y seguimiento de salud.  
-🧱 *Stack:* Next.js · Supabase · Tailwind · OpenAI API  
-
-🌀 **[Malla Interactiva Universitaria](#)**  
-> Proyecto web con autenticación por Google, mallas personalizadas y visualización dinámica de ramos.  
-🧱 *Stack:* React · Firebase · Tailwind  
+#### 🤖 [AutoTubeAI](#)
+> Plataforma que genera contenido automatizado para YouTube usando inteligencia artificial.  
+> 🧱 *Stack:* Next.js · OpenAI API · Tailwind CSS · Supabase  
+> 🚀 *Enfocado en productividad y automatización de videos.*
 
 ---
 
-### 🌐 Conéctate Conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolasmp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:amunozponcheira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nicolasmp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+#### 🏪 [Tiendas](#)
+> Sistema de gestión de inventario y ventas con interfaz gráfica.  
+> 💼 Incluye control de usuarios, stock, clientes y reportes.  
+> 🧱 *Stack:* Python · SQL Server · Integration Services (SSIS)
 
 ---
+
+#### 🚍 [TransporteRural](#)
+> Proyecto de innovación social enfocado en optimizar el transporte rural.  
+> 🌍 Busca mejorar la conectividad y accesibilidad de comunidades aisladas.  
+> 🧱 *Stack:* React · Node.js · Firebase · Google Maps API
+
+---
+
 
 <div align="center">
 
