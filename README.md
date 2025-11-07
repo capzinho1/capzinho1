@@ -1,60 +1,93 @@
 <div align="center">
 
-  <h1>¡Hola! 👋 Soy Nicolás</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Nicol%C3%A1s;💻+Estudiante+de+Inform%C3%A1tica;🚀+Apasionado+por+el+Desarrollo+Web;🤖+Explorando+la+IA+y+los+LLMs!" alt="Typing SVG" />
 
-  <p>Estudiante de informatica y apasionado por aprender cosas nuevas.</p>
-  <p>Actualmente navegando por el mundo del código... ☕</p>
+---
+
+### 🌱 Sobre mí
+
+💡 *Estudiante de Informática y entusiasta del aprendizaje continuo.*  
+☕ Actualmente navegando por el mundo del código, creando y experimentando con nuevas ideas.  
+🎯 Mi meta: construir soluciones digitales con impacto real.
 
 </div>
 
 ---
 
-### 🌱 Mi Viaje de Aprendizaje:
+### 🚀 Mi Viaje de Aprendizaje
 
-Actualmente estoy enfocado en aprender y construir proyectos con:
+Actualmente estoy enfocado en:
 
-* React y Next.js
-* Node.js (para el backend)
-* Tailwind CSS
-* Bases de datos con Supabase
-* Integración de IA y Modelos de Lenguaje (LLMs) en aplicaciones web.
-
----
-
-### 🔧 Mi Set de Herramientas (Skills):
-
-Estas son las tecnologías y herramientas que uso en mi día a día:
-
-**Desarrollo:**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-</p>
-
-**Diseño:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Affinity_Designer-1B74C1?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-</p>
+- ⚛️ **React** & **Next.js** (Frontend moderno)
+- 🟩 **Node.js** (Backend con JavaScript)
+- 🎨 **Tailwind CSS** (Estilo rápido y responsivo)
+- 🧠 **Supabase** (Base de datos + autenticación)
+- 🤖 **IA & LLMs** (Integración de modelos de lenguaje en apps web)
 
 ---
 
-### 🚀 ¡Los Widgets! (Mis Estadísticas)
+### 🧰 Mi Set de Herramientas
 
-Aquí es donde GitHub hace magia y muestra mi actividad.
+#### 💻 Desarrollo
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+#### 🎨 Diseño
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B74C1?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasmp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmp&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150"/>
+</p>
+
+---
+
+### ⚡ Proyectos Destacados
+
+🚧 **[CuidApp – Asistencia Integral para Adultos Mayores](#)**  
+> App diseñada para brindar apoyo a adultos mayores y sus familias, con recordatorios, contactos de emergencia y seguimiento de salud.  
+🧱 *Stack:* Next.js · Supabase · Tailwind · OpenAI API  
+
+🌀 **[Malla Interactiva Universitaria](#)**  
+> Proyecto web con autenticación por Google, mallas personalizadas y visualización dinámica de ramos.  
+🧱 *Stack:* React · Firebase · Tailwind  
+
+---
+
+### 🌐 Conéctate Conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasmp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amunozponcheira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nicolasmp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados">
-  
-</div>
 
----
+✨ *“El mejor código es el que aún estás por escribir.”* ✨  
+🖥️ *Creado con ❤️ y café por Nicolás*
+
+</div>
