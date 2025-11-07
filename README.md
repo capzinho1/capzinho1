@@ -17,6 +17,7 @@ Actualmente estoy enfocado en aprender y construir proyectos con:
 * Node.js (para el backend)
 * Tailwind CSS
 * Bases de datos con Supabase
+* Integración de IA y Modelos de Lenguaje (LLMs) en aplicaciones web.
 
 ---
 
@@ -31,6 +32,7 @@ Estas son las tecnologías y herramientas que uso en mi día a día:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
 </p>
 
 **Diseño:**
@@ -41,4 +43,18 @@ Estas son las tecnologías y herramientas que uso en mi día a día:
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
+---
 
+### 🚀 ¡Los Widgets! (Mis Estadísticas)
+
+Aquí es donde GitHub hace magia y muestra mi actividad.
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados">
+  
+</div>
+
+---
