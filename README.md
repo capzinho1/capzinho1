@@ -68,7 +68,7 @@ Actualmente estoy enfocado en:
 #### 🏥 [AdministradorDeCitasMedicas](#)
 > Sistema web para agendar, gestionar y administrar citas médicas de forma digital.  
 > 💼 Facilita la coordinación entre pacientes, médicos y centros de salud.  
-> 🧱 *Stack:* Next.js · Supabase · Tailwind CSS · OpenAI API
+> 🧱 *Stack:* Next.js · Supabase · Tailwind CSS 
 
 ---
 
