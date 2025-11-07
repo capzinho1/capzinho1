@@ -2,7 +2,7 @@
 
   <h1>¡Hola! 👋 Soy Nicolás</h1>
 
-  <p>Estudiante de informatica apasionado por aprender cosas nuevas.</p>
+  <p>Estudiante de informatica y apasionado por aprender cosas nuevas.</p>
   <p>Actualmente navegando por el mundo del código... ☕</p>
 
 </div>
@@ -11,23 +11,34 @@
 
 ### 🌱 Mi Viaje de Aprendizaje:
 
-Actualmente estoy enfocado/a en aprender y mejorar en:
+Actualmente estoy enfocado en aprender y construir proyectos con:
 
-* [Tecnología 1, ej: React]
-* [Tecnología 2, ej: Node.js]
-* [Concepto, ej: Estructuras de Datos]
-* [Herramienta, ej: Figma]
+* React y Next.js
+* Node.js (para el backend)
+* Tailwind CSS
+* Bases de datos con Supabase
+
+---
 
 ### 🔧 Mi Set de Herramientas (Skills):
 
-Estas son algunas de las tecnologías con las que me gusta construir cosas:
+Estas son las tecnologías y herramientas que uso en mi día a día:
 
+**Desarrollo:**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
+**Diseño:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B74C1?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
 ---
@@ -38,11 +49,10 @@ Aquí es donde GitHub hace magia y muestra mi actividad.
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=[capzinho1]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[capzinho1]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados">
   
 </div>
 
 ---
-
